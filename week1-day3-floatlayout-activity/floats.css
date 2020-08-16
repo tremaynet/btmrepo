@@ -1,4 +1,4 @@
-code/**
+/**
  * Float Layout Activity
  **/
 
@@ -53,12 +53,11 @@ section {
   clear: both;
   color: #ffffff;
   background-color: #394549;
-
 }
 
 #division {
   padding: 20px;
-  color: #ffffff;
+  margin-top: 20px;
   background-color: #214fb3;
 }
 
